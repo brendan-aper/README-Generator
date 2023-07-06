@@ -1,11 +1,10 @@
-// TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
 const markDown = require("./utils/generateMarkdown")
 const dayjs = require('dayjs')
 
 console.log(markDown)
-// TODO: Create an array of questions for user input
+
 const questions = [
     {
       type: "input",
@@ -17,11 +16,6 @@ const questions = [
       message: "What is your name?",
       name: "name"
     },
-    // {
-    //   type: "input",
-    //   message: "Please enter the year",
-    //   name: "date"
-    // },
     {
       type: "input",
       message: "Enter a short description of the project.",
@@ -68,10 +62,7 @@ const questions = [
 
 
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
-// TODO: Create a function to initialize app
 function init() {
   return inquirer.prompt(questions)
   .then((data) => {
@@ -86,5 +77,4 @@ function init() {
   }))
 }
 
-// Function call to initialize app
 init();
