@@ -102,7 +102,7 @@ function generateMarkdown(data) {
   ## Installation
   ${data.install}
 
-  <a id="Contributions></>
+  <a id="Contributions></a>
   ## Contributions
   ${data.contribute}
 

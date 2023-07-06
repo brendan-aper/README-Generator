@@ -18,7 +18,7 @@ const questions = [
     },
     {
       type: "input",
-      message: "Enter a short description of the project.",
+      message: "Enter a short description of the project:",
       name: "description",
     },
     {
@@ -33,12 +33,12 @@ const questions = [
     },
     {
       type: "input",
-      message: "List any guidelines for how you would like people to contribute to the property.",
+      message: "How can people contribute?",
       name: "contribute",
     },
     {
       type: "input",
-      message: "List any instructions for how to test the project.",
+      message: "How can people test the Project?",
       name: "test",
     },
     {
