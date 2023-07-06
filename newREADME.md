@@ -12,30 +12,30 @@
   
   <a id="Description"></a>
   ## Description
-  This is a professional README generator that works from the command line.
+  This creates a propfessional README
 
   <a id="Usage"></a>
   ## Usage
-  open the command line navigate to this directory and run 'node index.js'
+  your going to navigate to the directory you cloned it in and the run 'node index.js'
 
   <a id="Installation"></a>
   ## Installation
-  node.js
+  nodejs to clone the github repo
 
-  <a id="Contributions></>
+  <a id="Contributions></a>
   ## Contributions
-  no contributions necessary at this time
+  no contributions at this time
 
   <a id="Test"></a>
   ## Test
-  play around with different submissions from the command line prompts
+  to play around with your submissions for the prompts
 
   <a id="Questions"></a>
   ## Questions
   If there are any questions, or you need to contact me feel free to follow the links below.
-  Brendanaper@gmail.com
+  brendanaper@gmail.com
 
-  [github](github.com/brenda-aper)
+  [github](github.com/brendan-aper)
 
   <a id="License"></a>
   ## License
@@ -45,6 +45,6 @@
 
   
 
-  Copyright (c) 2023 Brendan Aper 
+  Copyright (c) 2023 Brenda Aper 
 
   Licensed under the Apache License, Version 2.0 (the 'License');<br>you may not use this file except in compliance with the License.<br>You may obtain a copy of the License at:<br><br>[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)<br><br>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.

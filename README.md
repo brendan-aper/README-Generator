@@ -28,6 +28,8 @@ To use the README Generator, follow these steps:
 4. Once you have answered all the prompts, the application will generate a README file based on your inputs.
 5. Find the generated README file labeled 'newREADEME.md' in the README-GENERATOR directory.
 
+[![Video Tutorial](./assets/readme-generator.png)](https://drive.google.com/file/d/18tLZDEifY3V50FBjkICMoAbuVdvhFiMp/view)
+
 ## Features
 
 - Simple and intuitive command-line interface.
